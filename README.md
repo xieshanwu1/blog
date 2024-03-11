@@ -8,7 +8,7 @@ This is an example site built with [Hexo](https://hexo.io/) and [Netlify CMS](ht
 ## Deploy to Netlify
 Use the following deploy button to get your own copy of the repository up and running:
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/lunaceee/hexo-material-netlify&stack=cms)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/xieshanwu1/blog&stack=cms)
 
 The Deploy to Netlify button clones a copy of this repository to your own GitHub or GitLab account. You can clone this repository to your computer for local development.
 
